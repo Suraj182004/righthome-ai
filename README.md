@@ -37,6 +37,7 @@ cd righthome-ai
 2. Install dependencies:
 ```bash
 npm install
+
 ```
 
 3. Create a `.env.local` file with your API keys:
